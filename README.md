@@ -25,7 +25,7 @@ Click on the 'Open Eyedropper' button and use it to select a colour from anywher
 
 The URL link is as follows: 
 [
-](https://anonymousangel12.github.io/Web-Dev-s-Colour-Picker-/)
+https://anonymousangel12.github.io/Web-Dev-s-Colour-Picker-/
 
 ## Credits
 
@@ -48,11 +48,13 @@ The license will be MIT, please see documentation for further details.
 
 ## How to Contribute
 
-Using the open source contributer covenant. Please see below: 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
+This project will use the open source contributer covenant. Please see below: 
 
 https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
 
 
 
