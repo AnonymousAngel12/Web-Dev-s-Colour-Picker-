@@ -43,7 +43,8 @@ https://fonts.google.com/
 
 ## License
 
-The license will be MIT, please see documentation for further details.
+The license will be MIT open source, please see documentation for further details.
+https://opensource.org/license/mit/
 
 
 ## How to Contribute
