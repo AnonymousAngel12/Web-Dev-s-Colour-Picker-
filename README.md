@@ -14,13 +14,13 @@ I don't know whether it will be of benefit to anyone but me, but feel free to us
 
 ## Installation
 
-No installation necessary. Web application, can be accessed via the URL on any browser as needed.
+No installation necessary. Web application, can be accessed via the URL on your browser as needed.
 
 ## Usage
 
 - Click on the 'Open Eyedropper' button and use it to select a colour from anywhere on your screen. 
 - Collect as many as you like and delete whichever you don't need anymore. 
-- The colours will be stored until you delete them using individual delete buttons, or until you clear your loal storage. 
+- The colours will be stored until you delete them using individual delete buttons, or until you clear your local storage. 
 - To clear your entire selection click on 'Clear History'. 
 - To copy the list of hex codes, click on the 'Copy Colour List' button, and paste into your css code wherever needed. 
 - The code is already commented out, so uncomment each individal line as needed, to see how it looks.
