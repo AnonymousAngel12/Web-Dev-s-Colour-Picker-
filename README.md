@@ -18,7 +18,12 @@ No installation necessary. Web application, can be accessed via the URL on any b
 
 ## Usage
 
-Click on the 'Open Eyedropper' button and use it to select a colour from anywhere on your screen. collect as many as you like and delete whichever you don't need anymore. The colours will be stored until you delete them using individual delete buttons, or until you clear your loal storage. To clear your entire selection click on 'Clear History'. To copy the list of hex codes, click on the 'Copy Colour List' button, and paste into your css code wherever needed. The code is already commented out, so uncomment each individal line as needed, to see how it looks.
+- Click on the 'Open Eyedropper' button and use it to select a colour from anywhere on your screen. 
+- Collect as many as you like and delete whichever you don't need anymore. 
+- The colours will be stored until you delete them using individual delete buttons, or until you clear your loal storage. 
+- To clear your entire selection click on 'Clear History'. 
+- To copy the list of hex codes, click on the 'Copy Colour List' button, and paste into your css code wherever needed. 
+- The code is already commented out, so uncomment each individal line as needed, to see how it looks.
 
 ![Screenshot 2023-02-19 at 22 48 45](https://user-images.githubusercontent.com/125834306/219980023-270a5d62-ac17-4c1e-9252-8df543ec1f87.png)!
 ![Screenshot 2023-02-19 at 22 49 12](https://user-images.githubusercontent.com/125834306/219980028-1315b0b0-9609-4146-936a-66a5cc7db44e.png)
@@ -42,6 +47,8 @@ And google fonts for the fonts:
 https://fonts.google.com/
 
 ## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The license will be MIT open source, please see documentation for further details.
 https://opensource.org/license/mit/
